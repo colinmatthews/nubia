@@ -5,10 +5,20 @@
     <description>Thoughts, Stories and Ideas</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Jan 2021 18:44:51 -0500</pubDate>
-    <lastBuildDate>Sat, 30 Jan 2021 18:44:51 -0500</lastBuildDate>
+    <pubDate>Sat, 30 Jan 2021 18:50:49 -0500</pubDate>
+    <lastBuildDate>Sat, 30 Jan 2021 18:50:49 -0500</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;h2 id=&quot;test&quot;&gt;TEST&lt;/h2&gt;
+&lt;p&gt;Enter text in &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;. Use the toolbar above, or click the &lt;strong&gt;?&lt;/strong&gt; button for formatting help.&lt;/p&gt;
+</description>
+        <pubDate>30 Jan 2021</pubDate>
+        <link>http://localhost:4000/2021/01/30/test/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021/01/30/test/</guid>
+      </item>
     
       <item>
         <title>You got to cool that off. And that's the double-truth</title>
@@ -41,9 +51,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>22 Jan 2017</pubDate>
-        <link>http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/01/22/you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
+        <pubDate>21 Jan 2017</pubDate>
+        <link>http://localhost:4000/2017/01/21/2017-1-22-you-got-to-cool-that-shit-off-and-thats-the-double-truth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/01/21/2017-1-22-you-got-to-cool-that-shit-off-and-thats-the-double-truth/</guid>
       </item>
     
       <item>
@@ -75,9 +85,9 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 </description>
-        <pubDate>25 Apr 2016</pubDate>
-        <link>http://localhost:4000/2016/04/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/25/welcome-to-jekyll/</guid>
+        <pubDate>24 Apr 2016</pubDate>
+        <link>http://localhost:4000/2016/04/24/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/04/24/welcome-to-jekyll/</guid>
       </item>
     
       <item>
@@ -111,9 +121,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-senate-that-our-ability-to-use-the-force-has-diminished/</guid>
+        <pubDate>21 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/21/the-senate-that-our-ability-to-use-the-force-has-diminished/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/the-senate-that-our-ability-to-use-the-force-has-diminished/</guid>
       </item>
     
       <item>
@@ -147,9 +157,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
+        <pubDate>21 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/21/the-reason-were-gathered-here-on-our-god-given-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/the-reason-were-gathered-here-on-our-god-given-day/</guid>
       </item>
     
       <item>
@@ -183,9 +193,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</guid>
+        <pubDate>21 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/21/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/if-you-have-an-opportunity-to-use-your-voice-you-should-use-it-all/</guid>
       </item>
     
       <item>
@@ -219,9 +229,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <pubDate>21 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/21/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-was-not-going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -255,9 +265,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>22 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/22/access-main-program-access-main-security/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/22/access-main-program-access-main-security/</guid>
+        <pubDate>21 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/21/access-main-program-access-main-security/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/access-main-program-access-main-security/</guid>
       </item>
     
       <item>
@@ -291,9 +301,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
       <item>
@@ -370,9 +380,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
       </item>
     
       <item>
@@ -406,9 +416,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
       </item>
     
       <item>
@@ -442,9 +452,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
       </item>
     
       <item>
@@ -472,9 +482,9 @@ lacinia in lorem.&lt;/li&gt;
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/how-to-travel-around-the-world-with-less-expenses/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/how-to-travel-around-the-world-with-less-expenses/</guid>
       </item>
     
       <item>
@@ -502,9 +512,9 @@ lacinia in lorem.&lt;/li&gt;
 &lt;/blockquote&gt;
 
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
       </item>
     
       <item>
@@ -538,9 +548,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -574,9 +584,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/every-day-which-is-almost-too-much-for-sensitive/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/every-day-which-is-almost-too-much-for-sensitive/</guid>
       </item>
     
       <item>
@@ -610,9 +620,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
       </item>
     
       <item>
@@ -646,9 +656,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
       </item>
     
       <item>
@@ -682,9 +692,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
+        <pubDate>20 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/20/access-main-program-access-main-security-access-main-program-grid/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/20/access-main-program-access-main-security-access-main-program-grid/</guid>
       </item>
     
       <item>
@@ -718,9 +728,9 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
-        <pubDate>02 Dec 2015</pubDate>
-        <link>http://localhost:4000/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">http://localhost:4000/2015/12/02/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <pubDate>01 Dec 2015</pubDate>
+        <link>http://localhost:4000/2015/12/01/2015-12-2-it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/01/2015-12-2-it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
 
