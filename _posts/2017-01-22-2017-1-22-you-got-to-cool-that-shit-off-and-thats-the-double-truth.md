@@ -1,6 +1,11 @@
 ---
-layout: post
 title: You got to cool that off. And that's the double-truth
+date: 2017-01-22 00:00:00 Z
+tags:
+- frontpage
+- jekyll
+- blog
+layout: post
 featured: true
 author: colin
 tags: [frontpage, jekyll, blog]
