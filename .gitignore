@@ -1,2 +1,10 @@
-.jekyyl_cache/*
-_site/*
+##Jekyll
+/_site/
+_site/
+_site
+/.sass-cache/
+.sass-cache/
+.sass-cache
+.jekyll-cache/
+.jekyll-cache
+/.jekyll-cache/
