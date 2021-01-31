@@ -1,6 +1,6 @@
 ---
 title: Welcome to Jekyll!
-date: {}
+date: 2017-01-22 00:00:00 Z
 tags:
   - frontpage
   - jekyll
